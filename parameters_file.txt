@@ -1,0 +1,11 @@
+data/A1-turbine.txt
+383;68
+5
+4
+4;9;5;1
+10000
+0.1;0.1
+normalization
+0.1;0.9
+sigmoid
+_output_turbine
